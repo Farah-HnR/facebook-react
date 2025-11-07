@@ -24,6 +24,9 @@ chrome-user-data
 *.swp
 *.swo
 /tmp
+build-regression
+build-regression-artifacts
+tmp/playwright-artifacts
 
 packages/react-devtools-core/dist
 packages/react-devtools-extensions/chrome/build
